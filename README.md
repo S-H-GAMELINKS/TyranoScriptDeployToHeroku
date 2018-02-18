@@ -3,6 +3,8 @@
 
 Deploy to Heroku for TyranoScript!
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## How to use it?
 
 At first, clone this repository.
