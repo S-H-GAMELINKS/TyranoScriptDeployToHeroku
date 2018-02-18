@@ -1,0 +1,8 @@
+{
+  "name": "Deploy To Heroku for TyranoScript",
+  "description": "Deploy To Heroku for TyranoScript Automatic!",
+  "website": "https://github.com/S-H-GAMELINKS/TyranoScriptDeployToHeroku",
+  "repository": "https://github.com/S-H-GAMELINKS/TyranoScriptDeployToHeroku",
+  "logo": "https://small-sharp-tool.com/logo.svg",
+  "success_url": "/"
+}
