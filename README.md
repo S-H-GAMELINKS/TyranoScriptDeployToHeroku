@@ -49,3 +49,7 @@ heroku open -a APP_NAME
 ```
 
 Enjoy TyranoSrcipt!
+
+## ref
+
+[HerokuにRackでdeployする(初級編:静的HTMLページ)](https://qiita.com/higuma/items/9baac9e97eeb862ef64e)
