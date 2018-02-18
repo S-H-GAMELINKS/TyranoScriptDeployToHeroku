@@ -47,3 +47,7 @@ git push heroku master
 ```
 heroku open -a APP_NAME
 ```
+
+## 参考資料
+
+[HerokuにRackでdeployする(初級編:静的HTMLページ)](https://qiita.com/higuma/items/9baac9e97eeb862ef64e)
